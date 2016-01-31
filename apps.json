@@ -84,6 +84,14 @@ callback([
   "tags": ["next", "bus", "stop"]
 },
 {
+  "name": "NUS BusLeh",
+  "author": "Samuel Lim",
+  "description": "NUS BusLeh is a beautified version of \"NUS NextBus\" with better* designs and user experiences.",
+  "url": "https://play.google.com/store/apps/details?id=swiftux.nusbusleh",
+  "icon_url": "http://lh3.googleusercontent.com/-HJP8Ej2c0oFja6sShCsNTOdRrgLT945bgKC6ws0mBBvF0XQGNErex-yLt-6m_Ldmg=w300-rw",
+  "tags": ["next", "bus", "stop", "timings"]
+},
+{
   "name": "BetterIVLE",
   "author": "Danny Lim",
   "description": "A Chrome extension to slightly improve the new IVLE interface.",
